@@ -63,10 +63,4 @@ Each .sql file corresponds to a practice session, with queries progressing from 
 
 This SQL practice directly supports my GitHub projects in:
 
-Machine Learning
-Natural Language Processing
-Data Engineering (using Azure Databricks & SQL-based dashboards)
-
-Natural Language Processing
-
 Data Engineering (using Azure Databricks & SQL-based dashboards)
